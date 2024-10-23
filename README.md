@@ -4,10 +4,10 @@ Bot Discord ini dirancang untuk menjawab pertanyaan pengguna dan memberikan info
 
 ## Fitur / Features
 - **Menjawab Pertanyaan**: Bot ini menggunakan library [HercAI](https://www.npmjs.com/package/hercai) untuk menjawab pertanyaan pengguna.
-- **Informasi Cuaca**: Dapatkan data cuaca terkini dari [WeatherAPI.com](https://www.weatherapi.com/) dan tampilkan dalam format embed.
+- **Informasi Cuaca**: Dapatkan data cuaca terkini dari [WeatherAPI.com](https://www.weatherapi.com/).
 - **Struktur Modular**: Tambahkan fitur baru hanya dengan membuat file command baru di folder `src/commands`.
 - **Answer Questions**: This bot uses the HercAI library to answer user questions.
-- **Weather Information**: Get current weather data from WeatherAPI.com and display it in an embed format.
+- **Weather Information**: Get current weather data from WeatherAPI.com
 - **Modular Structure**: Add new features simply by creating new command files in the src/commands folder.
 
 ## Persyaratan
