@@ -1,2 +1,28 @@
-# Discord-Bot-GPT
-  This Discord bot is designed to answer user queries such as ChatGPT and provide up-to-date weather information. With a modular structure, you can easily add new features.
+# Bot Discord
+
+Bot Discord ini dirancang untuk menjawab pertanyaan pengguna dan memberikan informasi cuaca terkini. Dengan struktur modular, kamu bisa menambahkan fitur baru dengan mudah.
+
+## Fitur
+**ID**
+- **Menjawab Pertanyaan**: Bot ini menggunakan library [HercAI](https://www.npmjs.com/package/hercai) untuk menjawab pertanyaan pengguna.
+- **Informasi Cuaca**: Dapatkan data cuaca terkini dari [WeatherAPI.com](https://www.weatherapi.com/) dan tampilkan dalam format embed.
+- **Struktur Modular**: Tambahkan fitur baru hanya dengan membuat file command baru di folder `src/commands`.
+**EN**
+- **Answer Questions**: This bot uses the HercAI library to answer user questions.
+- **Weather Information**: Get current weather data from WeatherAPI.com and display it in an embed format.
+- **Modular Structure**: Add new features simply by creating new command files in the src/commands folder.
+
+## Persyaratan
+**ID**
+Sebelum menjalankan bot ini, pastikan kamu telah menginstal [Node.js](https://nodejs.org/) dan NPM.
+**EN**
+Before running this bot, make sure you have Node.js and NPM installed.
+
+## Instalasi
+
+1. **Clone repositori ini**:
+   ```bash
+   git clone https://github.com/username/repo-name.git
+   cd repo-name
+2. **ID || Instal dependensi**: Pastikan untuk menginstal semua dependensi yang dibutuhkan  oleh proyek dengan perintah: npm install discord.js axios hercai dotenv
+   **EN || Install dependencies**: Ensure you install all required dependencies for the project with: npm install discord.js axios hercai dotenv
